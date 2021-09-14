@@ -20,7 +20,7 @@ author_profile: true
 ### 1.1 数学分析习题课 [(top)](#table-of-contents) <a name="1.1"></a>
     
 
-该课程采用南开大学数学科学学院，由刘春根 朱少红 李军 丁龙云主编的《数学分析》[下载](www.baidu.com)
+该课程采用南开大学数学科学学院，由刘春根 朱少红 李军 丁龙云主编的《数学分析》[下载](https://www.baidu.com/)
 
 
 #### 1.1.2 作业情况  [(top)](#table-of-contents) <a name="1.1.1"></a>
