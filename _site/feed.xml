@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:1234/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:1234/" rel="alternate" type="text/html" /><updated>2021-09-14T20:55:57+08:00</updated><id>http://localhost:1234/feed.xml</id><title type="html">Xiangjie Li</title><subtitle>Powered by Jekyll and minimal-mistakes theme</subtitle><author><name>Xiangjie Li</name><email>eleozzr@gmail.com</email></author><entry><title type="html">博客-“My Blog”</title><link href="http://localhost:1234/phdData/" rel="alternate" type="text/html" title="博客-“My Blog”" /><published>2021-09-13T00:00:00+08:00</published><updated>2021-09-13T00:00:00+08:00</updated><id>http://localhost:1234/phdData</id><content type="html" xml:base="http://localhost:1234/phdData/">&lt;p&gt;以下内容仅仅是为了测试&lt;/p&gt;
+
+&lt;h2 id=&quot;phd-毕业人数&quot;&gt;PhD 毕业人数&lt;/h2&gt;
+&lt;h3 id=&quot;总phd人数&quot;&gt;总PhD人数&lt;/h3&gt;
+&lt;p&gt;下图是1957到2016美帝每年PhD总毕业人数。60年间毕业人数从10000涨到50000多。近十年保持了大概每年1000人的增幅。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/zengliX/Notebooks/master/Figures/PhDdata/total_phd.png&quot; width=&quot;70%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;各领域phd人数&quot;&gt;各领域PhD人数&lt;/h3&gt;</content><author><name>Xiangjie Li</name><email>eleozzr@gmail.com</email></author><category term="analysis" /><category term="phd" /><summary type="html">以下内容仅仅是为了测试</summary></entry><entry><title type="html">Build my own website</title><link href="http://localhost:1234/mysite/" rel="alternate" type="text/html" title="Build my own website" /><published>2021-09-12T00:00:00+08:00</published><updated>2021-09-12T00:00:00+08:00</updated><id>http://localhost:1234/mysite</id><content type="html" xml:base="http://localhost:1234/mysite/">&lt;p&gt;This whole website is built using &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;&lt;strong&gt;Jekyll&lt;/strong&gt;&lt;/a&gt; and theme &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/&quot;&gt;&lt;strong&gt;minimal-mistakes&lt;/strong&gt;&lt;/a&gt;. 
+I had no experience of HTML or CSS language, but still managed to get the website to work. That’s just how easy it is to work with &lt;strong&gt;Jekyll&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I wouldn’t go through every step of the process in great detail as that would be too much text. But I’ll refer you to corresponding documents which will likely guide you through each of them.&lt;/p&gt;
+
+&lt;h3 id=&quot;other-resource&quot;&gt;Other resource:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Learning about Github Pages: &lt;a href=&quot;http://jmcglone.com/guides/github-pages/&quot;&gt;Github hosting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;step-1-install-jekyll-and-minimal-mistakes-theme-and-generate-template-website&quot;&gt;Step 1: install &lt;em&gt;Jekyll&lt;/em&gt; and &lt;em&gt;minimal-mistakes&lt;/em&gt; theme and generate template website&lt;/h2&gt;
+
+&lt;h3 id=&quot;install-jekyll&quot;&gt;install &lt;em&gt;Jekyll&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Type in terminal &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem install jekyll&lt;/code&gt; for installation.  &lt;br /&gt;
+This should work fine when you have all the dependencies installed. If you run into any issue, go to page &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;jekyll install&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;install-minimal-mistakes&quot;&gt;install &lt;em&gt;minimal-mistakes&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;It takes a little more work to install the theme. &lt;br /&gt;
+You need to first generate a jekyll folder: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new anyname&lt;/code&gt;. Then a folder named &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;anyname&lt;/code&gt; is going to be created in your current directory, and it contains all the basic files to make a website. &lt;br /&gt;
+Then follow the steps described in &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/&quot;&gt;install minimal-mistakes&lt;/a&gt;. It basically involves adding some lines to some files in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;anyname&lt;/code&gt;, or replacing a file with their version on Github, and removing some files.&lt;br /&gt;
+After you run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;, all the dependencies of &lt;strong&gt;minimal-mistakes&lt;/strong&gt; should be successfully installed.&lt;/p&gt;
+
+&lt;p&gt;Type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, and then a template website will be locally hosted at &lt;a href=&quot;localhost:4000/&quot;&gt;localhost:4000/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It should look something like this: &lt;br /&gt;
+&lt;img src=&quot;/pics/website_tut/fresh.png&quot; alt=&quot;fresh site&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now there are a lot of stuff you can do. 
+Like setting up site title on topleft corner, changing author name, biography, adding social sharings etc. You can find corresponding fields of all of these in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; (refer to &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/docs/configuration/&quot;&gt;configuration&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-add-pages&quot;&gt;Step 2: add pages&lt;/h2&gt;
+
+&lt;p&gt;Website pages are specified in file &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/navigation.yml&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Quick-Start&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Guide&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/docs/quick-start-guide/&lt;/span&gt;
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Posts&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/year-archive/&lt;/span&gt;
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Categories&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/categories/&lt;/span&gt;
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Tags&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/tags/&lt;/span&gt;
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Pages&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/page-archive/&lt;/span&gt;
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Collections&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/collection-archive/&lt;/span&gt;
+  &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;External&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Link&quot;&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://google.com&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Each &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-&lt;/code&gt; corresponds to one page tab:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; is the page title&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;url&lt;/code&gt; is the link to the file that contains contents of the page&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For example if you want to add a new tab &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Blogs&lt;/code&gt;, you can add the following two lines to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;navigation.yml&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;err&quot;&gt;	&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Blogs&quot;&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;	&lt;/span&gt;  &lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/Blogs/&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Then you make a new directory &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/_pages/&lt;/code&gt;, create inside a markdown file &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;blogs.md&lt;/code&gt; containing:&lt;/p&gt;
+
+&lt;div class=&quot;language-md highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Blogs&quot;&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;archive&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;permalink&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;/Blogs/&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;author_profile&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;comments&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+
+This is my blog page.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Be sure the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;permalink:&lt;/code&gt; matches the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;url&lt;/code&gt; in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;navigation.yml&lt;/code&gt; file.
+Generate the website again, and look what’s new: &lt;br /&gt;
+&lt;img src=&quot;/pics/website_tut/blog.png&quot; alt=&quot;blogs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s basically how a new webpage tab is added.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-add-posts&quot;&gt;Step 3: add posts&lt;/h2&gt;
+&lt;p&gt;Right now your Blog page is just a single page. Next, we are going to add posts to this page.&lt;/p&gt;
+
+&lt;h3 id=&quot;posts&quot;&gt;Posts&lt;/h3&gt;
+&lt;p&gt;Posts should be kept in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder and named after &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-filename.md&lt;/code&gt; so that &lt;em&gt;minimal-mistakes&lt;/em&gt; can correctly identify them.&lt;/p&gt;
+
+&lt;p&gt;An example post markdown file:&lt;/p&gt;
+
+&lt;div class=&quot;language-md highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;single&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;My&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;first&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;post&quot;&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;s&quot;&gt;2016-11-11&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+
+my first post looks just fine
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layout:single&lt;/code&gt; specifies this is a single page post; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; would appear on top of page; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;date&lt;/code&gt; keeps time of “latest update”, and could be used to sort your post. There are also a bunch of other parameters you can specify: &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/docs/posts/&quot;&gt;other parameters&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Let’s create this toy post &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;toy.md&lt;/code&gt; and put it in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;modify-page-file-to-include-posts&quot;&gt;Modify page file to include posts&lt;/h3&gt;
+&lt;p&gt;In order to put &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;top.md&lt;/code&gt; on you Blog page, you need to add commands in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;blogs.md&lt;/code&gt; to manually include it.&lt;/p&gt;
+
+&lt;p&gt;There are many ways to do this. I’ll just give one example: &lt;br /&gt;
+open the previous &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;blogs.md&lt;/code&gt; file and add the following lines:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/pics/website_tut/addToPage.png&quot; alt=&quot;addToPage&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is basically &lt;a href=&quot;http://shopify.github.io/liquid/&quot;&gt;Liquid language&lt;/a&gt;. You can adapt this block of code to get different display: sort by year, month or category etc.&lt;/p&gt;
+
+&lt;p&gt;Rename &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;toy.md&lt;/code&gt;  with prefix &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY&lt;/code&gt;. Then you can see the it on Blog page:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/pics/website_tut/new_blog.png&quot; alt=&quot;new blog&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-4-use-github-for-hosting&quot;&gt;Step 4: use Github for hosting&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://pages.github.com/&quot;&gt;Github pages&lt;/a&gt; is a great choice for free hosting. If you create a github repository named &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt;, it will automatically convert the contents to  a webpage at address &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt;. However to make this work, it takes more than just uploading all the related local files to the repository.&lt;/p&gt;
+
+&lt;p&gt;The safest way is to copy the repository of &lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes&quot;&gt;minimal mistakes&lt;/a&gt;, and replace some files with your own version. Steps as below:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Copy &lt;strong&gt;minmal mistakes&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# create a new folder for this online version website&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;mkdir &lt;/span&gt;GitPage
+&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;GitPage
+
+&lt;span class=&quot;c&quot;&gt;# initiate git repository&lt;/span&gt;
+git init
+
+&lt;span class=&quot;c&quot;&gt;# add minimal-mistakes repository to your remote&lt;/span&gt;
+git remote add minimal &lt;span class=&quot;s2&quot;&gt;&quot;https://github.com/mmistakes/minimal-mistakes&quot;&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# clone the repository to your folder&lt;/span&gt;
+git pull minimal master
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Customize the files: &lt;br /&gt;
+  After you pull all the stuff, you get a version of &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/&quot;&gt;minimal mistakes website&lt;/a&gt; on your computer. We want to keep the framework, remove the contents and put our stuff in.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;You can safely delete folders &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/docs&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/test&lt;/code&gt;.&lt;/li&gt;
+      &lt;li&gt;replace &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/_data/navigation.yml&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/_data/ui-text.yml&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/_config.yml&lt;/code&gt; with your own version.&lt;/li&gt;
+      &lt;li&gt;move your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_pages&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder to here&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Push your customized version online:
+  Create the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt; repository as mensioned previously.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# add your github repository to remote&lt;/span&gt;
+git remote add origin &lt;span class=&quot;s2&quot;&gt;&quot;ADDRESS.OF.YOUR.GITHUB.REPOSITORY&quot;&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# track all files in GitPage folder and stage a commit&lt;/span&gt;
+git add &lt;span class=&quot;nb&quot;&gt;.&lt;/span&gt;
+git commit &lt;span class=&quot;nt&quot;&gt;-a&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-m&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;first commit&quot;&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# push the folder online&lt;/span&gt;
+git push origin master
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If every step goes well, your personal website should be alive at “username.github.io”!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.residentadvisor.net/images/labels/oh!yeah!.jpg&quot; alt=&quot;ohyeah&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-5-customize-website-style-to-be-updated&quot;&gt;Step 5: customize website style (to be updated)&lt;/h2&gt;
+&lt;p&gt;Now the website is up and running, everything’s great. However, if you are eager to modify the website style to better fit your taste, it’s gonna cost a little more work.&lt;/p&gt;</content><author><name>Xiangjie Li</name><email>eleozzr@gmail.com</email></author><summary type="html">This whole website is built using Jekyll and theme minimal-mistakes. I had no experience of HTML or CSS language, but still managed to get the website to work. That’s just how easy it is to work with Jekyll.</summary></entry></feed>
