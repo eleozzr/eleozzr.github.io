@@ -44,6 +44,7 @@ gallery3:
     image_path: /pics/gallery/NH_street.jpg
     title: "Street art on Chapel"
 ---
+
 这里面放一些有趣的图片和其他信息
 {% include gallery caption="**Some beautiful/pictures**" %}
 {% include gallery id="gallery2" caption="**Trips**" %}
