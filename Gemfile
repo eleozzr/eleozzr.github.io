@@ -4,6 +4,5 @@ gem "jekyll", "~> 3.5"
 gem "minimal-mistakes-jekyll"
 gem "kramdown-parser-gfm"
 gem "jemoji"
-gem "github-pages", group: :jekyll_plugins
 #gemspec
 
