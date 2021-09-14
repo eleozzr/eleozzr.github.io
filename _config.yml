@@ -12,9 +12,9 @@ title                    : "Xiangjie Li"
 title_separator          : "-"
 name                     : &name "Xiangjie Li"
 description              : &description "Powered by Jekyll and minimal-mistakes theme"
-url                      : #"https://zengliX.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://eleozzr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://eleozzr/xiangjie.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://eleozzr.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
