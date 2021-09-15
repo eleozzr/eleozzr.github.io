@@ -9,36 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Mathematics, Zhejiang Sci-Tech University, 2014
-* M.S. in Statistics, Renmin University of China, 2016
-* Ph.D in Statistics, Renmin University of China, 2019 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- 2021.09-- Now, Assistant Professor, School of Statistics and Data Science, Nankai University， China
+- 2019.07-2019.07,  Postdoctoral Research Associate,   State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union Medical College
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+Education
+======
+- Renmin University of China. (2016.09-2019.06)  
+**Ph.D** of Statistics
+- University of Pennsylvania. (2017.10-2018.11)  
+**Visiting student**
+- Renmin University of China. (2014.09-2017.06)  
+**M.A.** of Statistics
+- Zhejiang Sci-Tech University. (2010.09-2014.06)  
+**B.S.** of Mathematics
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R/python/matlab
+* Rmarkdown/keras/tensorflow
 
-Publications
+Awards & Honors
 ======
-  <ul>{% for post in site.publications %}
+
+- 2018 CNPC Scholarship, Renmin University of China
+
+- 2017 National scholarship(Graduates), Renmin University of China
+
+- 2014 National scholarship, Zhejiang Sci‑Tech University
+
+- 2013 National Endeavor Fellowship, Zhejiang Sci‑Tech University
+
+- 2012 National Endeavor Fellowship, Zhejiang Sci‑Tech University
+
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -47,13 +56,11 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Publications
 ======
-  <ul>{% for post in site.teaching %}
+
+<!--  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

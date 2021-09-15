@@ -83,10 +83,10 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 60%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 2px;
       border: 1px solid $border-color;
     }
   }
@@ -95,8 +95,8 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
   line-height: 1;
 
   @include breakpoint($large) {
@@ -124,7 +124,7 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 20px;
   }
 }
