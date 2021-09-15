@@ -1,0 +1,58 @@
+music_prop.cluster            package:MuSiC            R Documentation
+
+_M_u_S_i_C _D_e_c_o_n_v_o_l_u_t_i_o_n _w_i_t_h _C_l_u_s_t_e_r_s
+
+_D_e_s_c_r_i_p_t_i_o_n:
+
+     This function is to calculate the MuSiC deconvolution proportions
+     with clusters
+
+_U_s_a_g_e:
+
+     music_prop.cluster(bulk.eset, sc.eset, group.markers, groups, clusters,
+       samples, clusters.type, verbose = TRUE, iter.max = 1000,
+       nu = 1e-04, eps = 0.01, centered = FALSE, normalize = FALSE, ...)
+     
+_A_r_g_u_m_e_n_t_s:
+
+bulk.eset: ExpressionSet for bulk data
+
+ sc.eset: ExpressionSet for single cell data
+
+group.markers: list of gene names. The list include differential
+          expressed genes within groups.  List name must be the same as
+          `clusters.type`.
+
+  groups: character, the phenoData of single cell data used as groups;
+
+clusters: character, the phenoData of single cell dataset used as
+          clusters;
+
+ samples: character,the phenoData of single cell dataset used as
+          samples;
+
+clusters.type: list of cell types. The list identify groups of similar
+          cell types.
+
+ verbose: logical, default as TRUE.
+
+iter.max: numeric, maximum iteration number
+
+      nu: regulation parameter, take care of weight when taking
+          recipical
+
+     eps: Thredshold of convergence
+
+centered: logic, substract avg of Y and D
+
+normalize: logic, divide Y and D by their standard deviation
+
+_V_a_l_u_e:
+
+     matrix of estimated proportions by MuSiC with cluster information.
+
+_S_e_e _A_l_s_o:
+
+     ‘music_basis’; ‘music_prop’
+
+
