@@ -55,7 +55,7 @@ Justin Lakkis, David Wang, Yuanchao Zhang, Gang Hu, Kui Wang, Huize Pan, Lyle Un
 </li>
 
 <li>
-Jian Hu, <b>Xiangjie Li</b> $^{(\dagger)}$, Kyle Coleman, Amelia Schroeder, David J.Irwin, Edward B. Lee, Russell T Shinohara1, Mingyao Li<sup>(*) </sup>. Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network. Accepted by Nature Methods. <a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405118v1">https://www.biorxiv.org/content/10.1101/2020.11.30.405118v1</a>.
+Jian Hu, <b>Xiangjie Li</b> $^{(\dagger)}$, Kyle Coleman, Amelia Schroeder, David J.Irwin, Edward B. Lee, Russell T Shinohara1, Mingyao Li<sup>(*) </sup>. Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network. Accepted by Nature Methods. <a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405118v1"> https://www.biorxiv.org/content/10.1101/2020.11.30.405118v1 </a>.
 </li>
 
 <li> 
