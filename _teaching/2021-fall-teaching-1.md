@@ -21,7 +21,7 @@ location: "Tianjin, China"
 
 该课程采用南开大学数学科学学院刘春根 朱少红 李军 丁龙云老师主编的《数学分析》[https://item.jd.com/10022132503675.html](https://item.jd.com/10022132503675.html)
 
-![教材名称](/imagesshuxuefenxi_pic1.png)
+![教材名称](/images/shuxuefenxi_pic1.png)
 
 
 ### 1.2 数学分析I课表 [(top)](#table-of-contents) <a name="1.2"></a>
