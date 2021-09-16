@@ -52,8 +52,7 @@ a:active {
 <ol reversed>
 <li>
 Justin Lakkis, David Wang, Yuanchao Zhang, Gang Hu, Kui Wang, Huize Pan,
-Lyle Ungar, Muredach P. Reilly, <b>Xiangjie Li</b><sup> (*) </sup>, Mingyao Li<sup> (*) </sup>. A joint deep learning model for simultaneous batch effect correction, denoising and clustering in single-cell transcriptomics. Published online in Genome Research <a href="https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract"> https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract
-</a>
+Lyle Ungar, Muredach P. Reilly, <b>Xiangjie Li</b><sup> (*) </sup>, Mingyao Li<sup> (*) </sup>. A joint deep learning model for simultaneous batch effect correction, denoising and clustering in single-cell transcriptomics. Published online in Genome Research.  <a href="https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract"> https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract </a>.
 </li>
 
 <li>
@@ -109,7 +108,7 @@ Xinyi Xu, <b>Xiangjie Li</b>$^{(\dagger)}$, Jingixiao Zhang<sup>(*)</sup>.(2018)
 
 
 <li>
-<b>Xiangjie Li</b>, Yanyan Wu, Jingxiao Zhang$^{(*)}$. (2018). Robust dimension reduction method based on sliced inverse regression. Statistical Research (In Chinese), 5(7): 115-124.
+<b>Xiangjie Li</b>, Yanyan Wu, Jingxiao Zhang <sup>(*)</sup>. (2018). Robust dimension reduction method based on sliced inverse regression. Statistical Research (In Chinese), 5(7): 115-124.
 </li>
 
 <li>
