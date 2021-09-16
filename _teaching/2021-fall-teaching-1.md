@@ -12,16 +12,24 @@ location: "Tianjin, China"
 
 
 <a name="table-of-contents"></a>
-1. [**本科生课程**](#1)  
-    1.1 [数学分析习题课-课件](#1.1)  
-    1.2 [数学分析习题课-作业](#1.2)  
+1. [**数学分析I**](#1)  
+    1.1 [数学分析I教材](#1.1)  
+    1.2 [数学分析I课表](#1.2)   
+    1.3 [数学分析习题课-作业](#1.3)  
     
-### 1.1 数学分析习题课-课件 [(top)](#table-of-contents) <a name="1.1"></a>
+### 1.1 数学分析I教材 [(top)](#table-of-contents) <a name="1.1"></a>
 
-该课程采用南开大学数学科学学院，由刘春根 朱少红 李军 丁龙云主编的《数学分析》[下载](https://www.baidu.com/)
+该课程采用南开大学数学科学学院刘春根 朱少红 李军 丁龙云老师主编的《数学分析》[https://item.jd.com/10022132503675.html](https://item.jd.com/10022132503675.html)
+
+![](/imagesshuxuefenxi_pic1.jpg)
 
 
-### 1.2 数学分析习题课-作业情况  [(top)](#table-of-contents) <a name="1.2"></a>
+### 1.2 数学分析I课表 [(top)](#table-of-contents) <a name="1.2"></a>
+
+![数学分析I课表](/images/mycourse1.png)
+
+
+### 1.3 数学分析习题课-作业情况  [(top)](#table-of-contents) <a name="1.3"></a>
 
 <details>
 <summary>
