@@ -49,8 +49,7 @@ df0=data.frame(`周数`=x1,`日期`=date_new,`星期`=weeks,`作业`=rep(&quot;&
 knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
 
 </details>
-
-  <br>
+<br>
 
 <table>
  <thead>
@@ -302,4 +301,6 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
   </tr>
 </tbody>
 </table>
+
+**Note:** 期末考试按照教务系统安排，内容是第1-7章，即本学期所有上课内容
 
