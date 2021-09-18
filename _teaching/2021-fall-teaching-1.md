@@ -48,45 +48,258 @@ weeks=rep(c(&quot;星期一&quot;,&quot;星期五&quot;),times=17)
 df0=data.frame(`周数`=x1,`日期`=date_new,`星期`=weeks,`作业`=rep(&quot;&quot;,length=34),`备注`=rep(&quot;&quot;,length=34))
 knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
 
-
 </details>
- 
- <br>
-     
-|周数   |日期       |星期   |作业 |备注 |
-|:------|:----------|:------|:----|:----|
-|第1周  |2021-09-06 |星期一 |   -  |     |
-|第1周  |2021-09-10 |星期五 |   -  |     |
-|第2周  |2021-09-13 |星期一 |   -  |     |
-|第2周  |2021-09-17 |星期五 |   *************  |     |
-|第3周  |2021-09-20 |星期一 |     | 中秋放假,调整09/18/2021(周六)上课    |
-|第3周  |2021-09-24 |星期五 |     |     |
-|第4周  |2021-09-27 |星期一 |     |     |
-|第4周  |2021-10-01 |星期五 |     |     |
-|第5周  |2021-10-04 |星期一 |     |     |
-|第5周  |2021-10-08 |星期五 |     |     |
-|第6周  |2021-10-11 |星期一 |     |     |
-|第6周  |2021-10-15 |星期五 |     |     |
-|第7周  |2021-10-18 |星期一 |     |     |
-|第7周  |2021-10-22 |星期五 |     |     |
-|第8周  |2021-10-25 |星期一 |     |     |
-|第8周  |2021-10-29 |星期五 |     |     |
-|第9周  |2021-11-01 |星期一 |     |     |
-|第9周  |2021-11-05 |星期五 |     |     |
-|第10周 |2021-11-08 |星期一 |     |     |
-|第10周 |2021-11-12 |星期五 |     |     |
-|第11周 |2021-11-15 |星期一 |     |     |
-|第11周 |2021-11-19 |星期五 |     |     |
-|第12周 |2021-11-22 |星期一 |     |     |
-|第12周 |2021-11-26 |星期五 |     |     |
-|第13周 |2021-11-29 |星期一 |     |     |
-|第13周 |2021-12-03 |星期五 |     |     |
-|第14周 |2021-12-06 |星期一 |     |     |
-|第14周 |2021-12-10 |星期五 |     |     |
-|第15周 |2021-12-13 |星期一 |     |     |
-|第15周 |2021-12-17 |星期五 |     |     |
-|第16周 |2021-12-20 |星期一 |     |     |
-|第16周 |2021-12-24 |星期五 |     |     |
-|第17周 |2021-12-27 |星期一 |     |     |
-|第17周 |2021-12-31 |星期五 |     |     |
+
+  <br>
+
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> 周数 </th>
+   <th style="text-align:left;"> 日期 </th>
+   <th style="text-align:left;"> 星期 </th>
+   <th style="text-align:left;"> 作业 </th>
+   <th style="text-align:left;"> 备注 </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> 第1周 </td>
+   <td style="text-align:left;"> 2021-09-06 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;"> - </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第1周 </td>
+   <td style="text-align:left;"> 2021-09-10 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;"> - </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第2周 </td>
+   <td style="text-align:left;"> 2021-09-13 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;"> - </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第2周 </td>
+   <td style="text-align:left;"> 2021-09-17 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;" rowspan="2">练习1.1的4、5、6、7；<br /> 习题1(A)的2、4、7、8、11、14  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第3周 </td>
+   <td style="text-align:left;"> 2021-09-20 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;"> 中秋放假,调整09/18/2021(周六)上课</td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第3周 </td>
+   <td style="text-align:left;"> 2021-09-24 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第4周 </td>
+   <td style="text-align:left;"> 2021-09-27 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第4周 </td>
+   <td style="text-align:left;"> 2021-10-01 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第5周 </td>
+   <td style="text-align:left;"> 2021-10-04 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第5周 </td>
+   <td style="text-align:left;"> 2021-10-08 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第6周 </td>
+   <td style="text-align:left;"> 2021-10-11 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第6周 </td>
+   <td style="text-align:left;"> 2021-10-15 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第7周 </td>
+   <td style="text-align:left;"> 2021-10-18 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第7周 </td>
+   <td style="text-align:left;"> 2021-10-22 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 预计第一次月考时间（晚上）:第1,2章  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第8周 </td>
+   <td style="text-align:left;"> 2021-10-25 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第8周 </td>
+   <td style="text-align:left;"> 2021-10-29 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第9周 </td>
+   <td style="text-align:left;"> 2021-11-01 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第9周 </td>
+   <td style="text-align:left;"> 2021-11-05 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第10周 </td>
+   <td style="text-align:left;"> 2021-11-08 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第10周 </td>
+   <td style="text-align:left;"> 2021-11-12 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第11周 </td>
+   <td style="text-align:left;"> 2021-11-15 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第11周 </td>
+   <td style="text-align:left;"> 2021-11-19 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第12周 </td>
+   <td style="text-align:left;"> 2021-11-22 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 预计第二次月考时间（晚上）:第3,4章 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第12周 </td>
+   <td style="text-align:left;"> 2021-11-26 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第13周 </td>
+   <td style="text-align:left;"> 2021-11-29 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第13周 </td>
+   <td style="text-align:left;"> 2021-12-03 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第14周 </td>
+   <td style="text-align:left;"> 2021-12-06 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第14周 </td>
+   <td style="text-align:left;"> 2021-12-10 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第15周 </td>
+   <td style="text-align:left;"> 2021-12-13 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第15周 </td>
+   <td style="text-align:left;"> 2021-12-17 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 预计第三次月考时间 （晚上）:第5,7章 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第16周 </td>
+   <td style="text-align:left;"> 2021-12-20 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第16周 </td>
+   <td style="text-align:left;"> 2021-12-24 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第17周 </td>
+   <td style="text-align:left;"> 2021-12-27 </td>
+   <td style="text-align:left;"> 星期一 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第17周 </td>
+   <td style="text-align:left;"> 2021-12-31 </td>
+   <td style="text-align:left;"> 星期五 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+  </tr>
+</tbody>
+</table>
 
