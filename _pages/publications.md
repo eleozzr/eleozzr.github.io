@@ -50,6 +50,12 @@ a:active {
 </style>
 
 <ol reversed>
+
+<li>
+Hang Hu,  Zhong Li<sup>(*) </sup>,<b>Xiangjie Li</b>$^{(\ddagger)}$,Minzhe Yu adn Xiutao Pan.(2021) 
+ScCAEs: deep clustering of single-cell RNA-seq via convolutional autoencoder embedding and soft K-means. Breifings in Bioinformatics, bbab321,<a href="https://doi.org/10.1093/bib/bbab321"> https://doi.org/10.1093/bib/bbab321 </a>
+</li>
+
 <li>
 Justin Lakkis, David Wang, Yuanchao Zhang, Gang Hu, Kui Wang, Huize Pan, Lyle Ungar, Muredach P. Reilly, <b>Xiangjie Li</b><sup>(*) </sup>, Mingyao Li<sup>(*) </sup>. A joint deep learning model for simultaneous batch effect correction, denoising and clustering in single-cell transcriptomics. Published online in Genome Research.  <a href="https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract"> https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract </a>.
 </li>
