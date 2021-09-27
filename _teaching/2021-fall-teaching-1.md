@@ -16,6 +16,7 @@ location: "Tianjin, China"
     1.1 [数学分析I教材](#1.1)  
     1.2 [数学分析I课表](#1.2)   
     1.3 [数学分析习题课-作业](#1.3)  
+    1.4 [其它习题询问](#1.4)
     
 ### 1.1 数学分析I教材 [(top)](#table-of-contents) <a name="1.1"></a>
 
@@ -107,7 +108,7 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第4周 </td>
    <td style="text-align:left;"> 2021-09-27 </td>
    <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 练习2.1的1;习题2(A)的1,2,3,6 </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
@@ -304,3 +305,11 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
 
 **Note:** 期末考试按照教务系统安排，内容是第1-7章，即本学期所有上课内容
 
+### 1.4 其它习题询问 [(top)](#table-of-contents) <a name="1.4"></a>
+
+如果大家课外时间有其它习题可以通过下面链接或者二维码进行提交:
+
+   1. [数学分析I习题课其它习题] (https://www.wjx.cn/vj/Oh5iulx.aspx),<a href="https://www.wjx.cn/vj/Oh5iulx.aspx"> https://www.wjx.cn/vj/Oh5iulx.aspx </a>
+   2. 调查问卷二维码
+
+![习题课调查问卷二维码](/images/shxuefenxi_question.png)
