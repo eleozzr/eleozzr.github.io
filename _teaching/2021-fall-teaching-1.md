@@ -129,15 +129,14 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第5周 </td>
    <td style="text-align:left;"> 2021-10-08 </td>
    <td style="text-align:left;"> 星期五 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;" rowspan="2">练习2.2:题1，题3的(3)(6);<br /> 练习2.3:题2的(3)(4),题3的(2); <br/>习题2(A):6、7、9;</td>
+   <td style="text-align:left;">  2021-10-19 习题课上交作业</td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第6周 </td>
    <td style="text-align:left;"> 2021-10-11 </td>
    <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  2021-10-19 习题课上交作业</td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第6周 </td>
