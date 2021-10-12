@@ -52,6 +52,10 @@ a:active {
 <ol reversed>
 
 <li>
+Jie Ren<sup>(#)</sup>, Ningning Zhang<sup>(#)</sup>, <b>Xiangjie Li</b><sup>(&para;)</sup>, Xiaogang Sun, Jinagping Song <sup>(*)</sup>.(2021). Identification of reference genes for gene expression studies among different developmental stages of murine hearts. BMC Developmental Biology.21:13. <a href="https://doi.org/10.1186/s12861-021-00244-6"> https://doi.org/10.1186/s12861-021-00244-6 </a>.
+</li>
+
+<li>
 Hang Hu,  Zhong Li<sup>(*) </sup>,<b>Xiangjie Li</b>$^{(\ddagger)}$,Minzhe Yu adn Xiutao Pan.(2021) 
 ScCAEs: deep clustering of single-cell RNA-seq via convolutional autoencoder embedding and soft K-means. Breifings in Bioinformatics, bbab321,<a href="https://doi.org/10.1093/bib/bbab321"> https://doi.org/10.1093/bib/bbab321 </a>
 </li>
@@ -155,8 +159,5 @@ Xinyi Xu, <b>Xiangjie Li</b><sup>(*)</sup>. Batch effect for scRNA-seq gene expr
 Jie Ren<sup>(#)</sup>, <b>Xiangjie Li</b><sup>(#)</sup>, et al. scRNA-seq revealed the postnatally developmental trajectories in human TGA myocardial tissue.<i> Under review </i> 
 </li>
 
-<li>
-Jie Ren<sup>(#)</sup>, Ningning Zhang<sup>(#)</sup>, <b>Xiangjie Li</b><sup>(&para;)</sup>, Xiaogang Sun, Jinagping Song <sup>(*)</sup>. Identification of appropriate reference genes for gene expression studies in mice left ventricles from different developmental stages. <i> under review </i>.
-</li>
 
 </ol>
