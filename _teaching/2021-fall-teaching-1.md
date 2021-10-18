@@ -149,7 +149,7 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第7周 </td>
    <td style="text-align:left;"> 2021-10-18 </td>
    <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">练习2.4:题1的(2)(6)(7),题2的(2)<br/>练习2.5：题(1)的(2)(4)(6);<br /> 练习2.6:题2 <br/>习题2(A):16,17,18,27;</td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 2021-10-22 </td>
    <td style="text-align:left;"> 星期五 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> 预计第一次月考时间（晚上）:第1,2章  </td>
+   <td style="text-align:left;"> 第一次月考时间（晚18:30-20:10）:第1,2章; <a href="https://stat.nankai.edu.cn/bksjy/list.htm"> [具体安排]</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第8周 </td>
