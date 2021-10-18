@@ -130,7 +130,7 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 2021-10-08 </td>
    <td style="text-align:left;"> 星期五 </td>
    <td style="text-align:left;" rowspan="2">练习2.2:题1，题3的(3)(6);<br /> 练习2.3:题2的(3)(4),题3的(2); <br/>习题2(A):6、7、9;</td>
-   <td style="text-align:left;">  2021-10-19 习题课上交作业</td>
+   <td style="text-align:left;">  2021-10-19 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第6周 </td>
@@ -156,8 +156,8 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第7周 </td>
    <td style="text-align:left;"> 2021-10-22 </td>
    <td style="text-align:left;"> 星期五 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> 第一次月考时间（晚18:30-20:10）:第1,2章; <a href="https://stat.nankai.edu.cn/bksjy/list.htm"> [具体安排]</a> </td>
+   <td style="text-align:left;">  10.25 习题课上交作业</span></td>
+   <td style="text-align:left;"> 第一次月考时间<span style="color:red;">晚上18:30-20:10</span>:第1,2章; <a href="https://stat.nankai.edu.cn/bksjy/list.htm"> [具体安排]</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第8周 </td>
