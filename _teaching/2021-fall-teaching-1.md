@@ -150,7 +150,7 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 2021-10-18 </td>
    <td style="text-align:left;"> 星期一 </td>
    <td style="text-align:left;">练习2.4: 题1的(2)(6)(7),题2的(2);<br/>练习2.5: 题(1)的(2)(4)(6);<br /> 练习2.6: 题2;<br/>习题2(A): 16,17,18,27;</td>
-   <td style="text-align:left;">  2020-10.26 习题课上交作业</td>
+   <td style="text-align:left;">  2021-10.26 习题课上交作业</td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第7周 </td>
