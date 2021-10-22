@@ -12,6 +12,28 @@ redirect_from:
 
 这个里面将放一些有用的链接,以及和自己研究领域相关的比较著名的lab和PI
 
+<style>
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+</style>
+
 
 阅读笔记
 ============
