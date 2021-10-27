@@ -150,7 +150,7 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 2021-10-18 </td>
    <td style="text-align:left;"> 星期一 </td>
    <td style="text-align:left;">练习2.4: 题1的(2)(6)(7),题2的(2);<br/>练习2.5: 题(1)的(2)(4)(6);<br /> 练习2.6: 题2;<br/>习题2(A): 16,17,18,27;</td>
-   <td style="text-align:left;">  2021-10.26 习题课上交作业</td>
+   <td style="text-align:left;">  2021-10-26 习题课上交作业</td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第7周 </td>
@@ -163,8 +163,8 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第8周 </td>
    <td style="text-align:left;"> 2021-10-25 </td>
    <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">练习2.7: 题1的(2),题5的(5)-(8); <br/> 练习3.1: 题1的(2),题3的(1)(3)(5);<br/>练习3.2:题2;<br/> 练习3.3: 题1的(4),题2的(1)(3)(5)(7)(9)</td>
+   <td style="text-align:left;"> 2021-11-02 习题课上交作业 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第8周 </td>
