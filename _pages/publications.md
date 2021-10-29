@@ -52,6 +52,12 @@ a:active {
 <ol reversed>
 
 <li>
+Jian Hu, <b>Xiangjie Li</b> $^{(\dagger)}$, Kyle Coleman, Amelia Schroeder, Nan Ma, David J. Irwin, Edward B. Lee, Russell T. Shinohara and Mingyao Li.(2021).SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network. Nat Methods(published online). <a href="https://doi.org/10.1038/s41592-021-01255-8"> https://doi.org/10.1038/s41592-021-01255-8 </a>.
+
+
+</li>
+
+<li>
 Jie Ren<sup>(#)</sup>, Ningning Zhang<sup>(#)</sup>, <b>Xiangjie Li</b><sup>(&para;)</sup>, Xiaogang Sun, Jinagping Song <sup>(*)</sup>.(2021). Identification of reference genes for gene expression studies among different developmental stages of murine hearts. BMC Developmental Biology.21:13. <a href="https://doi.org/10.1186/s12861-021-00244-6"> https://doi.org/10.1186/s12861-021-00244-6 </a>.
 </li>
 
