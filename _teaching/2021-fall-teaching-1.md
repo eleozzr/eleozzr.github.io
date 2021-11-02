@@ -177,8 +177,8 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第9周 </td>
    <td style="text-align:left;"> 2021-11-01 </td>
    <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">练习3.4: 题1,题3; <br/> 练习3(A): 题6,题7;<br/>练习4.1: 题2,题6-8;<br/> 练习4.2: 题1,题2.</td>
+   <td style="text-align:left;"> 2021-11-09 习题课上交作业 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第9周 </td>
