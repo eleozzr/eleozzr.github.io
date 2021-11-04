@@ -40,6 +40,10 @@ a:active {
 1. [《Semi-Supervised Classification with Graph Convolutional Networks》阅读笔记](https://zhuanlan.zhihu.com/p/31067515)
 2. ...
 
+课程思政
+============
+1. <a href="https://mp.weixin.qq.com/s/uUmkukyDVQXw0COUsWMp7w"> 优秀典型课程教学案例展示——计算机组成原理 </a>. ![链接pdf](/images/teach_case_sizheng.pdf)
+
 其它
 =======
 
