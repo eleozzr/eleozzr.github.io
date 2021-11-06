@@ -70,10 +70,6 @@ ScCAEs: deep clustering of single-cell RNA-seq via convolutional autoencoder emb
 Justin Lakkis, David Wang, Yuanchao Zhang, Gang Hu, Kui Wang, Huize Pan, Lyle Ungar, Muredach P. Reilly, <b>Xiangjie Li</b><sup>(*) </sup>, Mingyao Li<sup>(*) </sup>. A joint deep learning model for simultaneous batch effect correction, denoising and clustering in single-cell transcriptomics. Published online in Genome Research.  <a href="https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract"> https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract </a>.
 </li>
 
-<li>
-Jian Hu, <b>Xiangjie Li</b> $^{(\dagger)}$, Kyle Coleman, Amelia Schroeder, David J.Irwin, Edward B. Lee, Russell T Shinohara1, Mingyao Li<sup>(*) </sup>. Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network. Accepted by Nature Methods. <a href="https://www.biorxiv.org/content/10.1101/2020.11.30.405118v1"> https://www.biorxiv.org/content/10.1101/2020.11.30.405118v1 </a>.
-</li>
-
 <li> 
 <b> Xiangjie Li </b>, Kui Wang, Yafei Lyu, Jingxiao Zhang, Dwight Stambolian,Katalin Susztak, Muredach P. Reilly, Gang Hu <sup> (*) </sup> and Mingyao Li <sup>(*) </sup>. (2020). Deep learning enables accurate clustering and batch effect removal in single-cell RNA-seq. Nature Communications 11, 2338 (2020). <a href="https://eleozzr.github.io/desc">https://eleozzr.github.io/desc </a>.
 </li>
