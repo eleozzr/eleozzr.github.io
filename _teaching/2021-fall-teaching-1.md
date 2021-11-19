@@ -317,12 +317,12 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
 ![习题课调查问卷二维码](/images/shxuefenxi_question.png)
 
 ### 1.5 经典反例 [(top)](#table-of-contents) <a name="1.5"></a>
-   1. 若 $f(x)$ 在 $\mathbb{R}$ 连续，若 $\forall t\in \mathbb{R}$,有 $\lim\limits_{x\rightarrow+\infty} f(n+t)=A$, 问是否可以证明得到 $\lim\limits_{x\rightarrow\infty}f(x)=A$.
- $$f(x)=\left\{\begin{array}{ll}m(x-m),&x\in[m,m+1/m]\\m(m+2/m-x),&x\in(m+1/m,m+2/m]\\0,&other\\\end{array}\right. (m\in\mathbb{N}^* and m\ge 2)$$ 
+   1. 若 $f(x)$ 在 $\mathbb{R}$ 连续，若 $\forall t\in \mathbb{R}$,有 $\lim\limits_{x\rightarrow+\infty} f(n+t)=A$, 问是否可以证明得到 $\lim\limits_{x\rightarrow+\infty}f(x)=A$. 反例如下:
+ $$f(x)=\left\{\begin{array}{ll}m(x-m),&x\in[m,m+1/m]\\m(m+2/m-x),&x\in(m+1/m,m+2/m]\\0,&other\\\end{array}\right. (m\in\mathbb{N}^* ~and ~m\ge 2)$$
 
 <details>
 <summary>
-   反例图片和反例代码:
+   反例图像产生代码以及代码:
  </summary>
 <!-- rnb-text-begin -->
 
@@ -342,9 +342,9 @@ y=sapply(x,function(x0) f(x0))
 df=data.frame(x=x,y=y)
 ggplot(df[1:10000,])+geom_line(aes(x=x,y=y))+
   scale_x_continuous(breaks = c(1:20))+
-  cowplot::theme_cowplot()
+  cowplot::theme_cowplot() </code></pre>
 
 </details>
 
+![反例图片](/images/shxuefenxi1_example.png)
 
-![反例图片](/images/mathematic_example1.png)
