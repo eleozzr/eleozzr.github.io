@@ -17,6 +17,7 @@ location: "Tianjin, China"
     1.2 [数学分析I课表](#1.2)   
     1.3 [数学分析习题课-作业](#1.3)  
     1.4 [其它习题询问](#1.4)
+    1.5 [经典反例](#1.5)
     
 ### 1.1 数学分析I教材 [(top)](#table-of-contents) <a name="1.1"></a>
 
@@ -50,6 +51,8 @@ df0=data.frame(`周数`=x1,`日期`=date_new,`星期`=weeks,`作业`=rep(&quot;&
 knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
 
 </details>
+
+
 <br>
 
 <table>
@@ -205,15 +208,15 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第11周 </td>
    <td style="text-align:left;"> 2021-11-15 </td>
    <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">练习5.1: 题2,题3,题4(3),题5,题7,题8,题10;<br/>练习5.2: 题2,题3(1);<br/>习题5(A): 题2,题5，题6</td>
+   <td style="text-align:left;"> 2021-11-23 习题课上交作业</td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第11周 </td>
    <td style="text-align:left;"> 2021-11-19 </td>
    <td style="text-align:left;"> 星期五 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第12周 </td>
@@ -312,3 +315,36 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    2. 调查问卷二维码
 
 ![习题课调查问卷二维码](/images/shxuefenxi_question.png)
+
+### 1.5 经典反例 [(top)](#table-of-contents) <a name="1.5"></a>
+   1. 若 $f(x)$ 在 $\mathbb{R}$ 连续，若 $\forall t\in \mathbb{R}$,有 $\lim\limits_{x\rightarrow+\infty} f(n+t)=A$, 问是否可以证明得到 $\lim\limits_{x\rightarrow\infty}f(x)=A$.
+ $$f(x)=\left\{\begin{array}{ll}m(x-m),&x\in[m,m+1/m]\\m(m+2/m-x),&x\in(m+1/m,m+2/m]\\0,&other\\\end{array}\right. (m\in\mathbb{N}^* and m\ge 2)$$ 
+
+<details>
+<summary>
+   反例图片和反例代码:
+ </summary>
+<!-- rnb-text-begin -->
+
+<pre class="r"><code>
+f=function(x){
+  m=as.integer(x)
+  if(x>=m & x<=m+1/m){
+    return(m*(x-m))
+  }else if(x>=m+1/m & x<=m+2/m){
+    return (m*(m+2/m-x))
+  }else{
+    return(0)
+  }
+}
+x=seq(from=1,to=1000,length=500000)
+y=sapply(x,function(x0) f(x0))
+df=data.frame(x=x,y=y)
+ggplot(df[1:10000,])+geom_line(aes(x=x,y=y))+
+  scale_x_continuous(breaks = c(1:20))+
+  cowplot::theme_cowplot()
+
+</details>
+
+
+![反例图片](/images/mathematic_example1.png)
