@@ -1,5 +1,5 @@
 ---
-title: "数学分析习题课/Mathematical Analysis"
+title: "数学分析I习题课/Mathematical AnalysisI"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-fall-teaching-1
