@@ -52,10 +52,12 @@ a:active {
 <ol reversed>
 
 <li>
-Yuan Chang<sup>(#)</sup>, <b>Xiangjie Li<b><sup>(#)</sup>, Qi Cheng<sup>(#)</sup>, Yiqing Hu<sup>(#) </sup>,Xiao Chen, Xiumeng Hua, Xuexin Fan, Menghao Tao, Jiangping Song <sup>(*)</sup>, Shengshou Hu <sup> (*)</sup>.  Single-cell landscape of immune microenvironment during acute rejection in heart transplantation, <i> accepted by Basis Research in Cardiology </i>. 
-</li>
+
+Yuan Chang<sup>(#)</sup>, <b>Xiangjie Li</b><sup>(#)</sup>, Qi Cheng<sup>(#)</sup>, Yiqing Hu<sup>(#) </sup>,Xiao Chen, Xiumeng Hua, Xuexin Fan, Menghao Tao, Jiangping Song <sup>(*)</sup>, Shengshou Hu <sup> (*)</sup>.  Single-cell landscape of immune microenvironment during acute rejection in heart transplantation, <i> accepted by Basis Research in Cardiology </i>. 
 
 </li>
+
+<li>
 Jian Hu, <b>Xiangjie Li</b> $^{(\dagger)}$, Kyle Coleman, Amelia Schroeder, Nan Ma, David J. Irwin, Edward B. Lee, Russell T. Shinohara and Mingyao Li.(2021).SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network. Nat Methods,18:1342-1351. <a href="https://doi.org/10.1038/s41592-021-01255-8"> https://doi.org/10.1038/s41592-021-01255-8 </a>.
 
 </li>
