@@ -222,8 +222,8 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第12周 </td>
    <td style="text-align:left;"> 2021-11-22 </td>
    <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 练习5.2: 题4，题5; <br/> 练习5.3: 题1,题2,题3(3); <br/> 练习5.4:题1的偶数题</td>
+   <td style="text-align:left;"> 2021-11-30 习题课上交作业</td> 
   </tr>
   <tr>
    <td style="text-align:left;"> 第12周 </td>
