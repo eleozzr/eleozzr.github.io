@@ -236,8 +236,8 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第13周 </td>
    <td style="text-align:left;"> 2021-11-29 </td>
    <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 练习5.5: 题1(4), 题2(5), 题3(5),题5<br/> 习题5A:题27,28,29,30  <br/> 练习7.1: 题3(6)<br/> 练习7.2:题1的5,10,15,20,25,30</td>
+   <td style="text-align:left;"> 2021-12-07 习题课上交作业</td> 
   </tr>
   <tr>
    <td style="text-align:left;"> 第13周 </td>

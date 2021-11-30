@@ -52,40 +52,44 @@ a:active {
 <ol reversed>
 
 <li>
+Jie Ren<sup>(#)</sup>, Yuze Zhang<sup>(#)</sup>, Shishi Liu,  <b>Xiangjie Li</b><sup>(*)</sup>, Xiaogang Sun<sup>(*)</sup>.(2021).Detailed Analyses of the Expression Patterns of Potential Severe Acute Respiratory Syndrome Coronavirus 2 Receptors in the Human Heart Using Single-Nucleus RNA-sequencing. <i>accepted by frontiers in Cardiovascular Medicine (IF=4.79, Q1)</i>
+</li>
 
-Yuan Chang<sup>(#)</sup>, <b>Xiangjie Li</b><sup>(#)</sup>, Qi Cheng<sup>(#)</sup>, Yiqing Hu<sup>(#) </sup>,Xiao Chen, Xiumeng Hua, Xuexin Fan, Menghao Tao, Jiangping Song <sup>(*)</sup>, Shengshou Hu <sup> (*)</sup>.  Single-cell landscape of immune microenvironment during acute rejection in heart transplantation, <i> accepted by Basis Research in Cardiology </i>. 
+<li>
+
+Yuan Chang<sup>(#)</sup>, <b>Xiangjie Li</b><sup>(#)</sup>, Qi Cheng<sup>(#)</sup>, Yiqing Hu<sup>(#) </sup>,Xiao Chen, Xiumeng Hua, Xuexin Fan, Menghao Tao, Jiangping Song <sup>(*)</sup>, Shengshou Hu <sup> (*)</sup>.  Single-cell landscape of immune microenvironment during acute rejection in heart transplantation, <i> accepted by Basis Research in Cardiology  (IF=15.48, Q1)</i>. 
 
 </li>
 
 <li>
-Jian Hu, <b>Xiangjie Li</b> $^{(\dagger)}$, Kyle Coleman, Amelia Schroeder, Nan Ma, David J. Irwin, Edward B. Lee, Russell T. Shinohara and Mingyao Li.(2021).SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network. Nat Methods,18:1342-1351. <a href="https://doi.org/10.1038/s41592-021-01255-8"> https://doi.org/10.1038/s41592-021-01255-8 </a>.
+Jian Hu, <b>Xiangjie Li</b> $^{(\dagger)}$, Kyle Coleman, Amelia Schroeder, Nan Ma, David J. Irwin, Edward B. Lee, Russell T. Shinohara and Mingyao Li.(2021).SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network. Nat Methods,18:1342-1351. <a href="https://doi.org/10.1038/s41592-021-01255-8"> https://doi.org/10.1038/s41592-021-01255-8 </a> (IF=28.54,Q1).
 
 </li>
 
 <li>
-Jie Ren<sup>(#)</sup>, Ningning Zhang<sup>(#)</sup>, <b>Xiangjie Li</b><sup>(&para;)</sup>, Xiaogang Sun, Jinagping Song <sup>(*)</sup>.(2021). Identification of reference genes for gene expression studies among different developmental stages of murine hearts. BMC Developmental Biology.21:13. <a href="https://doi.org/10.1186/s12861-021-00244-6"> https://doi.org/10.1186/s12861-021-00244-6 </a>.
+Jie Ren<sup>(#)</sup>, Ningning Zhang<sup>(#)</sup>, <b>Xiangjie Li</b><sup>(&para;)</sup>, Xiaogang Sun, Jinagping Song <sup>(*)</sup>.(2021). Identification of reference genes for gene expression studies among different developmental stages of murine hearts. BMC Developmental Biology.21:13. <a href="https://doi.org/10.1186/s12861-021-00244-6"> https://doi.org/10.1186/s12861-021-00244-6 </a> (IF=1.9, Q3).
 </li>
 
 <li>
 Hang Hu,  Zhong Li<sup>(*) </sup>,<b>Xiangjie Li</b>$^{(\ddagger)}$,Minzhe Yu adn Xiutao Pan.(2021) 
-ScCAEs: deep clustering of single-cell RNA-seq via convolutional autoencoder embedding and soft K-means. Breifings in Bioinformatics, bbab321,<a href="https://doi.org/10.1093/bib/bbab321"> https://doi.org/10.1093/bib/bbab321 </a>
+ScCAEs: deep clustering of single-cell RNA-seq via convolutional autoencoder embedding and soft K-means. Breifings in Bioinformatics, bbab321,<a href="https://doi.org/10.1093/bib/bbab321"> https://doi.org/10.1093/bib/bbab321 </a> (IF=11.62, Q1).
 </li>
 
 <li>
-Justin Lakkis, David Wang, Yuanchao Zhang, Gang Hu, Kui Wang, Huize Pan, Lyle Ungar, Muredach P. Reilly, <b>Xiangjie Li</b><sup>(*) </sup>, Mingyao Li<sup>(*) </sup>. A joint deep learning model for simultaneous batch effect correction, denoising and clustering in single-cell transcriptomics. Published online in Genome Research.  <a href="https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract"> https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract </a>.
+Justin Lakkis, David Wang, Yuanchao Zhang, Gang Hu, Kui Wang, Huize Pan, Lyle Ungar, Muredach P. Reilly, <b>Xiangjie Li</b><sup>(*) </sup>, Mingyao Li<sup>(*) </sup>. A joint deep learning model for simultaneous batch effect correction, denoising and clustering in single-cell transcriptomics. Published online in Genome Research.  <a href="https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract"> https://genome.cshlp.org/content/early/2021/05/25/gr.271874.120.abstract </a> (IF=9.04, Q1).
 </li>
 
 <li> 
-<b> Xiangjie Li </b>, Kui Wang, Yafei Lyu, Jingxiao Zhang, Dwight Stambolian,Katalin Susztak, Muredach P. Reilly, Gang Hu <sup> (*) </sup> and Mingyao Li <sup>(*) </sup>. (2020). Deep learning enables accurate clustering and batch effect removal in single-cell RNA-seq. Nature Communications 11, 2338 (2020). <a href="https://eleozzr.github.io/desc">https://eleozzr.github.io/desc </a>.
+<b> Xiangjie Li </b>, Kui Wang, Yafei Lyu, Jingxiao Zhang, Dwight Stambolian,Katalin Susztak, Muredach P. Reilly, Gang Hu <sup> (*) </sup> and Mingyao Li <sup>(*) </sup>. (2020). Deep learning enables accurate clustering and batch effect removal in single-cell RNA-seq. Nature Communications 11, 2338 (2020). <a href="https://eleozzr.github.io/desc">https://eleozzr.github.io/desc </a> (IF=14.92, Q1).
 </li>
 
 <li>
 
-Liang Chen<sup>(#)</sup>, <b>Xiangjie Li </b> <sup>(#) </sup>, Mingquan Chen, Yi Feng and Chenglong Xiong<sup>(*)</sup>. (2020). The ACE2 expression in human heart indicates new potential mechanism of heart injury among patients infected with SARS-CoV-2. Cardiovascular Research. 116(6): 1097–1100.<span style="color:red;">(ESI Hot Papers and ESI Highly Cited Papers, cited 659 times)</span>
+Liang Chen<sup>(#)</sup>, <b>Xiangjie Li </b> <sup>(#) </sup>, Mingquan Chen, Yi Feng and Chenglong Xiong<sup>(*)</sup>. (2020). The ACE2 expression in human heart indicates new potential mechanism of heart injury among patients infected with SARS-CoV-2. Cardiovascular Research. 116(6): 1097–1100.<span style="color:red;">(ESI Hot Papers and ESI Highly Cited Papers, cited 659 times, IF=10.787, Q1)</span>
 </li>
 
 <li>
-Mengmeng Li<sup>(#)</sup>, Liang chen<sup>(#)</sup>, Jingxiao Zhang, Chenglong Xiong<sup>(*) </sup> and <b> Xiangjie Li</b><sup>(*) </sup>. (2020) The SARS-CoV-2 receptor ACE2 expression of maternal-fetal interface and fetal organs by single-cell transcriptome study. Plos One. 15(4):e0230295. <span style="color:red;">(ESI Highly Cited Papers, cited 240 times)</span>
+Mengmeng Li<sup>(#)</sup>, Liang chen<sup>(#)</sup>, Jingxiao Zhang, Chenglong Xiong<sup>(*) </sup> and <b> Xiangjie Li</b><sup>(*) </sup>. (2020) The SARS-CoV-2 receptor ACE2 expression of maternal-fetal interface and fetal organs by single-cell transcriptome study. Plos One. 15(4):e0230295. <span style="color:red;">(ESI Highly Cited Papers, cited 240 times, IF=3.24, Q1)</span>
 
 </li>
 
@@ -94,7 +98,7 @@ Jie Ren<sup>(#)</sup>, Liang Chen<sup>(#)</sup>, Ningning Zhang, Xiao Chen, Qian
 </li>
 
 <li>
-Jian Hu, <b>Xiangjie Li</b>, Gang Hu, Yafei Lyu, Katalin Susztak and Mingyao Li<sup>(*)</sup>.(2020). Iterative transfer learning with neural network for clustering and cell type classification in single-cell RNA-seq analysis. Nature Machine Intelligence. <a href="https://doi.org/10.1038/s42256-020-00233-7"> https://doi.org/10.1038/s42256-020-00233-7</a>,
+Jian Hu, <b>Xiangjie Li</b>, Gang Hu, Yafei Lyu, Katalin Susztak and Mingyao Li<sup>(*)</sup>.(2020). Iterative transfer learning with neural network for clustering and cell type classification in single-cell RNA-seq analysis. Nature Machine Intelligence. <a href="https://doi.org/10.1038/s42256-020-00233-7"> https://doi.org/10.1038/s42256-020-00233-7</a> (IF=16.65, Q1).
 </li>
 
 <li>
