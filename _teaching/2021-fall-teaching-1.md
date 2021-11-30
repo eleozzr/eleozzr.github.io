@@ -255,6 +255,13 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
   </tr>
   <tr>
    <td style="text-align:left;"> 第14周 </td>
+   <td style="text-align:left;"> 2021-12-09 </td>
+   <td style="text-align:left;"> 星期四 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 预计第三次月考时间 （晚上）:第5,7章 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 第14周 </td>
    <td style="text-align:left;"> 2021-12-10 </td>
    <td style="text-align:left;"> 星期五 </td>
    <td style="text-align:left;">  </td>
@@ -272,7 +279,7 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 2021-12-17 </td>
    <td style="text-align:left;"> 星期五 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> 预计第三次月考时间 （晚上）:第5,7章 </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第16周 </td>
