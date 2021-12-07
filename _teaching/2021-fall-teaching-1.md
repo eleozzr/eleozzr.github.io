@@ -250,15 +250,15 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第14周 </td>
    <td style="text-align:left;"> 2021-12-06 </td>
    <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 练习7.3:题1的5,10,15,17,23;<br/>练习7.4:题1的10,11;<br/> 练习7.5:题1的9,10; 题2的3;</br> 习题7A:题2的3,5; 题6的3，题7的1; 题9的5,10</td>
+   <td style="text-align:left;">  2021-12-14 习题课上交作业</td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第14周 </td>
    <td style="text-align:left;"> 2021-12-09 </td>
    <td style="text-align:left;"> 星期四 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> 预计第三次月考时间 （晚上）:第5,7章 </td>
+   <td style="text-align:left;"> 预计第三次月考时间 （晚上）:第5,7章 <a href="https://math.nankai.edu.cn/2021/1130/c5536a418206/page.htm"> [具体安排]</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第14周 </td>
@@ -291,20 +291,6 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
   <tr>
    <td style="text-align:left;"> 第16周 </td>
    <td style="text-align:left;"> 2021-12-24 </td>
-   <td style="text-align:left;"> 星期五 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 第17周 </td>
-   <td style="text-align:left;"> 2021-12-27 </td>
-   <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 第17周 </td>
-   <td style="text-align:left;"> 2021-12-31 </td>
    <td style="text-align:left;"> 星期五 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
