@@ -250,7 +250,7 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第14周 </td>
    <td style="text-align:left;"> 2021-12-06 </td>
    <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;"> 练习7.3:题1的5,10,15,17,23;<br/>练习7.4:题1的10,11;<br/> 练习7.5:题1的9,10; 题2的3;</br> 习题7A:题2的3,5; 题6的3，题7的1; 题9的5,10</td>
+   <td style="text-align:left;"> 练习7.3:题1的5,10,15,17,23;<br/>练习7.4:题1的10,11;<br/> 练习7.5:题1的9,10; 题2的3;<br/> 习题7A:题2的3,5; 题6的3，题7的1; 题9的5,10</td>
    <td style="text-align:left;">  2021-12-14 习题课上交作业</td>
   </tr>
   <tr>
