@@ -18,6 +18,7 @@ location: "Tianjin, China"
     1.3 [数学分析习题课-作业](#1.3)  
     1.4 [其它习题询问](#1.4)  
     1.5 [经典反例](#1.5)  
+    1.6 [月考试题](#1.6)  
     
 ### 1.1 数学分析I教材 [(top)](#table-of-contents) <a name="1.1"></a>
 
@@ -271,8 +272,8 @@ knitr::kable(df0, format=&quot;markdown&quot;)</code></pre>
    <td style="text-align:left;"> 第15周 </td>
    <td style="text-align:left;"> 2021-12-13 </td>
    <td style="text-align:left;"> 星期一 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 练习6.1:题2,题3,题4;</br> 练习6.2:题1,题2,题3,题4,题5;</br>练习6(A): 题1,题2(2)</td>
+   <td style="text-align:left;">2021-12-21 习题课上交作业  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 第15周 </td>
@@ -341,3 +342,6 @@ ggplot(df[1:10000,])+geom_line(aes(x=x,y=y))+
 
 ![反例图片](/images/shxuefenxi1_example.png)
 
+### 1.6 考试试题 [(top)](#table-of-contents) <a name="1.6"></a>
+    下面链接包括以前月考以及2020年数学分析I考试试题
+    https://www.jianguoyun.com/p/Db_2Xi0Q_9fcCRidtaIE ( Access Password:ahOSTY )
