@@ -343,5 +343,7 @@ ggplot(df[1:10000,])+geom_line(aes(x=x,y=y))+
 ![反例图片](/images/shxuefenxi1_example.png)
 
 ### 1.6 考试试题 [(top)](#table-of-contents) <a name="1.6"></a>
-    下面链接包括以前月考以及2020年数学分析I考试试题
-    https://www.jianguoyun.com/p/Db_2Xi0Q_9fcCRidtaIE ( Access Password:ahOSTY )
+
+    > 下面链接包括以前月考以及2020年数学分析I考试试题
+    
+[https://www.jianguoyun.com/p/Db_2Xi0Q_9fcCRidtaIE ( Access Password:ahOSTY )](https://www.jianguoyun.com/p/Db_2Xi0Q_9fcCRidtaIE)
