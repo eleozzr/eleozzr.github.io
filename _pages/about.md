@@ -54,7 +54,7 @@ redirect_from:
 
 **Dr.Xiangjie Li** (李向杰)  
 Associate professor  
-Changping Laboratory
+Changping Laboratory  
 <!-- **Office**: Room 335, Fansun Building ,or [xiangjieli[at]nankai[dot]edu[dot]cn](mailto:xiangjieli@nankai.edu.cn "For quicker response, recommand mailto ele717@163.com") -->
 **Email**: [ele717[at]163[dot].com](mailto:ele717@163.com) 
 
