@@ -11,7 +11,8 @@ redirect_from:
 
 Work experience
 ======
-- 2021.09-- Now, Assistant Professor, School of Statistics and Data Science, Nankai University， China
+- 2022.03-- Now, Associate professor, Changping Laboratory, China
+- 2021.09-- 2022.03, Assistant Professor, School of Statistics and Data Science, Nankai University， China
 - 2019.07-2019.07,  Postdoctoral Research Associate,   State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union Medical College
 
 

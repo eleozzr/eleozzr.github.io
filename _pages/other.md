@@ -69,3 +69,8 @@ News about me:
 Continuing (待完善)
 
 
+<br />			
+<iframe width="720" height="550" frameborder="2" scrolling="yes" marginheight="0" marginwidth="0" 
+				src="https://map.baidu.com/poi/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6/@12948797.870000001,4834885.14,18z?uid=055227e268dbedb34d776e28&ugc_type=3&ugc_ver=1&device_ratio=1&compat=1&pcevaname=pc4.1&newfrom=zhuzhan_webmap&querytype=detailConInfo&da_src=shareurl"> 
+				</iframe><br />
+<br />
