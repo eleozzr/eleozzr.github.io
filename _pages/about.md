@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- 文字闪烁参考链接 https://www.mybj123.com/6311.html  -->
 
-<div class="box">   Hello world !!!!  </div>
+<div class="box">   Welcome !!!!  </div>
 
 <style>  
     .box{ 
@@ -53,11 +53,10 @@ redirect_from:
 </style>
 
 **Dr.Xiangjie Li** (李向杰)  
-Assistant Professor  
-School of Statistics and Data Science  
-Nankai University, 300371,Tianjin, China  
-**Office**: Room 335, Fansun Building  
-**Email**: [ele717[at]163[dot].com](mailto:ele717@163.com) or [xiangjieli[at]nankai[dot]edu[dot]cn](mailto:xiangjieli@nankai.edu.cn "For quicker response, recommand mailto ele717@163.com")
+Associate professor  
+Changping Laboratory
+<!-- **Office**: Room 335, Fansun Building ,or [xiangjieli[at]nankai[dot]edu[dot]cn](mailto:xiangjieli@nankai.edu.cn "For quicker response, recommand mailto ele717@163.com") -->
+**Email**: [ele717[at]163[dot].com](mailto:ele717@163.com) 
 
 
 My main research area is statistical genomics, using statistical method and machine learning approaches to understand cellular heterogeneity in human disease relevant tissues, to characterize gene expression diversity across cell types, and to study crosstalk of various cell type using multiomics data, for example, scRNA-seq, spatial transcriptomics, spatial metabolism,et al. 
@@ -72,7 +71,8 @@ My main research area is statistical genomics, using statistical method and mach
 
 
 ### Working Experience
-- 2021.09-- Now, Assistant Professor, School of Statistics and Data Science, Nankai University， China
+- 2022.03-- Now, Associate professor, Changping Laboratory， China
+- 2021.09-- 2022.03, Assistant Professor, School of Statistics and Data Science, Nankai University， China
 - 2019.07-2019.07,  Postdoctoral Research Associate,   State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National Center for Cardiovascular Diseases, Chinese Academy of Medical Sciences and Peking Union Medical College
 
 ### Education:

@@ -35,6 +35,14 @@ a:active {
 </style>
 
 
+实验室LAB
+============
+- <a href="http://cancer-pku.cn/index.php/people/zemin-zhang/"> 北京大学-张泽民</a>.  
+- <a href="https://www.xu-bioinfo.com/"> 西安交通大学-徐云刚</a>.  
+- <a href="https://sqsun.github.io/"> 西安交通大学-孙世权</a>.  
+- <a href="https://zhjxiaoruc.github.io/"> 中国人民大学-张景肖</a>.  
+- continuing...  
+
 阅读笔记
 ============
 1. [《Semi-Supervised Classification with Graph Convolutional Networks》阅读笔记](https://zhuanlan.zhihu.com/p/31067515)
@@ -42,7 +50,7 @@ a:active {
 
 课程思政
 ============
-1. <a href="https://mp.weixin.qq.com/s/uUmkukyDVQXw0COUsWMp7w"> 优秀典型课程教学案例展示——计算机组成原理 </a>. ![链接pdf](/images/teach_case_sizheng.pdf)
+1. <a href="https://mp.weixin.qq.com/s/uUmkukyDVQXw0COUsWMp7w"> 优秀典型课程教学案例展示——计算机组成原理 </a>. [链接pdf](/images/teach_case_sizheng.pdf)
 
 其它
 =======
