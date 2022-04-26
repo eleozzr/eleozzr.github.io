@@ -52,6 +52,11 @@ a:active {
 <ol reversed>
 
 <li>
+
+Shi Chen <sup>(#)</sup>, Liang Chen<sup>(#)</sup>, Ardan M. Saguner, Kai Chen, Deniz Akdis, Alessio Gasperetti, Corinna Brunckhorst, Hanwei Tand, Guangran Guo, Man Rao, <b>Xiangjie Li</b> <sup>(&para;)</sup>, Firat Duru<sup>(*)</sup>, Jiangping Song<sup>(*)</sup>, Shengshou Hu<sup>(*)</sup>.(2022). Novel Risk Prediction Model to Determinie Adverse Heart Failure Outcomes in Arrhythmogenic Right Ventricular Cardiomyopathy. <i>accepted by JAHA: Journal of the American Heart Association (IF=5.51, Q1)</i>
+</li>
+
+<li>
 Jie Ren<sup>(#)</sup>, Yuze Zhang<sup>(#)</sup>, Shishi Liu,  <b>Xiangjie Li</b><sup>(*)</sup>, Xiaogang Sun<sup>(*)</sup>.(2021).Detailed Analyses of the Expression Patterns of Potential Severe Acute Respiratory Syndrome Coronavirus 2 Receptors in the Human Heart Using Single-Nucleus RNA-sequencing. <i>accepted by frontiers in Cardiovascular Medicine (IF=4.79, Q1)</i>
 </li>
 
