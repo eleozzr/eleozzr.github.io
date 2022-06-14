@@ -172,9 +172,12 @@ Zishu Zhan,  <b>Xiangjie Li</b><sup>(*)</sup>, Jingxiao Zhang<sup>(*)</sup>. Pro
 </li>
 
 <li>
-QUEST:A Quadruplet unified framework enables analysis of scRNA-seq and Spatial Resolved Transcriptomic <i> In preparation </i>
+QUEST:A Quadruplet unified framework enables analysis of scRNA-seq and Spatial Resolved Transcriptomic. <i> In preparation </i>
 </li>
 
+<li>
+scDML:Batch Alignment of single-cell transcriptomics data using Deep Metric Learning. <i> In preparation </i>
+</li>
 
 <li>
 Jie Ren<sup>(#)</sup>, <b>Xiangjie Li</b><sup>(#)</sup>, Xiao chen, Ningning Zhang, Xiaogang Sun, Jiangping Song<sup>(*)</sup> and Shengshou Hu <sup>(*)</sup>.  Single-Cell Analysis of the Human Postnatal Myocardium Revealed an Intervention Mechanism for Congenitally Corrected Transposition of the Great. <i> Under review </i> 
