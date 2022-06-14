@@ -52,6 +52,11 @@ a:active {
 <ol reversed>
 
 <li>
+Xinyi Xu, Xiaokang Yu, Gang Hu, Kui Wang, Jingxiao Zhang, <b>Xiangjie Li</b><sup>(*)</sup>. Propensity Score Matching enables batch effect corrected imputation in single-cell RNA-seq analysis.<i> Accepted by Briefings in Bioinformatics (IF=11.622).</i>
+</li>
+
+
+<li>
 
 Shi Chen <sup>(#)</sup>, Liang Chen<sup>(#)</sup>, Ardan M. Saguner, Kai Chen, Deniz Akdis, Alessio Gasperetti, Corinna Brunckhorst, Hanwei Tand, Guangran Guo, Man Rao, <b>Xiangjie Li</b> <sup>(&para;)</sup>, Firat Duru<sup>(*)</sup>, Jiangping Song<sup>(*)</sup>, Shengshou Hu<sup>(*)</sup>.(2022). Novel Risk Prediction Model to Determinie Adverse Heart Failure Outcomes in Arrhythmogenic Right Ventricular Cardiomyopathy. <i>accepted by JAHA: Journal of the American Heart Association (IF=5.51, Q1)</i>
 </li>
@@ -166,10 +171,10 @@ Papers in preparation
 Zishu Zhan,  <b>Xiangjie Li</b><sup>(*)</sup>, Jingxiao Zhang<sup>(*)</sup>. Projective resampling imputation estimation method for missing covariates problems. <i> Under review </i>
 </li>
 
-
 <li>
-Xinyi Xu, <b>Xiangjie Li</b><sup>(*)</sup>. Batch effect for scRNA-seq gene expression using propensity scoring matching. <i> In preparation </i>
+QUEST:A Quadruplet unified framework enables analysis of scRNA-seq and Spatial Resolved Transcriptomic <i> In preparation </i>
 </li>
+
 
 <li>
 Jie Ren<sup>(#)</sup>, <b>Xiangjie Li</b><sup>(#)</sup>, Xiao chen, Ningning Zhang, Xiaogang Sun, Jiangping Song<sup>(*)</sup> and Shengshou Hu <sup>(*)</sup>.  Single-Cell Analysis of the Human Postnatal Myocardium Revealed an Intervention Mechanism for Congenitally Corrected Transposition of the Great. <i> Under review </i> 
